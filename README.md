@@ -1,1 +1,1 @@
-# .github
+Sync AI
